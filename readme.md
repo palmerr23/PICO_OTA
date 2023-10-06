@@ -9,7 +9,7 @@ The Arduino V2 IDE does not yet include a file upload plugin.
 * Text-based file editing
 * File deletion 
 
-## use
+## Use
 * It may be accessed via from a browser by its IP address (output via the USB serial interface on booting) or at http://PICO-OTA.local
 * OTA requires standard BIN format files.
 * The program must be compiled with a filesystem of sufficient size to hold the uploaded OTA binary file.
