@@ -2,7 +2,7 @@
 
 The Arduino V2 IDE does not yet include a file upload plugin.
 
-##This program provides a web-based LittleFS interface for
+## This program provides a web-based LittleFS interface for
 * OTA (BIN files)
 * File uploding ('Blank' file systems are formatted automatically on mounting.)
 * FS directory listing
