@@ -1,6 +1,6 @@
 # PI PICO W OTA and File System Management
 
-The Arduino V2 IDE does not yet include a file upload plugin.
+The Arduino V2 IDE does not yet include a file upload plugin for the RP2040.
 
 ## This program provides a web-based LittleFS interface for
 * OTA (BIN files)
